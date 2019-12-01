@@ -1,4 +1,4 @@
-var url = "https://my-train-schedule.firebaseio.com/";
+var url = "https://train-name.firebaseio.com/";
 var dataRef = new Firebase(url);
 var name = '';
 var destination = '';
